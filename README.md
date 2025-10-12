@@ -7,8 +7,18 @@ I build creative AI tools for tattoos:
 - **AITattoo.art** — Design your own tattoo with AI before going to a studio → https://aitattoo.art  
 <p align="center">
   <a href="https://aitattoo.art">
-    <img src="https://raw.githubusercontent.com/AItool-kellytt/AITATTOO.art/main/homepage.png" alt="AITattoo.art Homepage Screenshot" width="700"/>
+    <img src="https://raw.githubusercontent.com/AItool-kellytt/AITATTOO.art/main/homepage2.png" 
+         alt="AITattoo.art Homepage Preview" 
+         width="700"/>
   </a>
+</p>
+
+<h1 align="center">AITattoo.art — Free AI Tattoo Generator</h1>
+
+<p align="center">
+  Design your tattoo ideas with AI before you get inked. 
+  Explore styles like <b>blackwork</b>, <b>fine line</b>, <b>geometric</b>, and <b>anime tattoos</b>. 
+  Try it free → <a href="https://aitattoo.art">AITattoo.art</a>
 </p>
 
 AITattoo.art is a free AI tattoo generator that helps you design unique tattoos with AI.
