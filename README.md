@@ -12,4 +12,4 @@ I build creative AI tools for tattoos:
 - 10 AI Tattoo Ideas for 2025 → [/blog/ai-tattoo-ideas-2025](https://aitattoo.art/blog/tattoo-art-styles-and-trends-in-2025)
 - 7 Ways to Find Tattoo Inspiration with AI → [/blog/tattoo-inspiration-ai](https://aitattoo.art/blog/7-best-ways-to-find-tattoo-inspiration--and-create-your-own-design-with-ai)
 
-**Find me**: [Twitter]([YOUR_TWITTER_URL](https://x.com/AITattooArt)) · [Pinterest]([YOUR_PINTEREST_URL](https://pin.it/6NdatdNmR))
+**Find me**: [Twitter](https://x.com/AITattooArt) · [Pinterest]([YOUR_PINTEREST_URL](https://pin.it/6NdatdNmR))
