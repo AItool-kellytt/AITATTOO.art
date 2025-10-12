@@ -5,7 +5,7 @@ AITattoo.art is a free AI tattoo generator that helps you design custom tattoo i
 I build creative AI tools for tattoos:
 
 - **AITattoo.art** — Design your own tattoo with AI before going to a studio → https://aitattoo.art  
-[![AITattoo.art Homepage](https://github.com/Altool-kellytt/AITATTOO.art/blob/main/homepage.png?raw=true)](https://aitattoo.art)
+[![AITattoo.art Homepage](https://raw.githubusercontent.com/AItool-kellytt/AITATTOO.art/646c5239e234a929b3d1d8f13b1c30c651fe07a4/homepage.png)](https://aitattoo.art)
 
 AITattoo.art is a free AI tattoo generator that helps you design unique tattoos with AI.
 
