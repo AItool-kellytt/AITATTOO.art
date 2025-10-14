@@ -37,7 +37,8 @@ AITattoo.art is a free AI tattoo generator that helps you design unique tattoos 
 - [The Timeless Art of Tattoos: From Ancient Symbols to AI Innovation](https://aitattoo.art/blog/the-timeless-art-of-tattoos-from-ancient-symbols-to-ai-innovation)
 - [10 AI Tattoo Ideas You'll Love in 2025](https://aitattoo.art/blog/10-ai-tattoo-ideas-youll-love-in-2025)
 - [A Journey Through Modern Tattoo Culture](https://aitattoo.art/blog/a-journey-through-modern-tattoo-culture)
-update 10.14
+-
+**Update 10.14**
 - **[Tattoo Pain Chart by Body Part (with Realistic Examples)](https://aitattoo.art/blog/tattoo-pain-chart-by-body-part-with-realistic-examples)**  
   What hurts, what doesn’t, and smart ways to plan a calm first session.
 - **[Minimalist Tattoos with Deep Meaning — Simple Lines, Big Stories](https://aitattoo.art/blog/minimalist-tattoos-with-deep-meaning--simple-lines-big-stories)**  
