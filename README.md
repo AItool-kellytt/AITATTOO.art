@@ -45,6 +45,39 @@ AITattoo.art is a free AI tattoo generator that helps you design unique tattoos 
   Symbols, placements, and prompts for subtle designs that actually last.
 - **[Halloween Tattoo Ideas 2025: Spooky, Stylish & Full of Meaning](https://aitattoo.art/blog/halloween-tattoo-ideas-2025-spooky-stylish--full-of-meaning)**  
   Seasonal to timeless: ghosts, pumpkins, gothic florals, and blackwork ideas.
+**Update 10.15**
+  ## 🔥 Latest from the Blog (Oct 2025)
+
+### 1) Tattoo Lettering & Fonts Guide 2025 — Make Your Words Last on Skin  
+https://aitattoo.art/blog/tattoo-lettering--fonts-guide-2025--make-your-words-last-on-skin  
+- Real numbers that work: **x-height 3–4 mm** (script/serif/sans), **4–5 mm** (blackletter), **120–140% leading**, open tracking.  
+- Where words age well vs. fade (forearm, back, calf vs. fingers, ribs).  
+- 10 real-world layout recipes + prompts you can test before you ink.
+
+---
+
+### 2) Tattoo Placement Guide for First-Timers (Low-Pain, High-Impact Picks)  
+https://aitattoo.art/blog/tattoo-placement-guide-for-first-timers-low-pain-high-impact-picks  
+- Beginner-friendly placements that balance **pain, visibility, and aging**.  
+- What to avoid for a first piece (high-friction zones, heavy sun exposure).  
+- Mockup workflow to preview size/placement on your own body photo.
+
+---
+
+### 3) Tattoo Size & Scale Guide — How Big Is 2–5 cm vs 8–12 cm?  
+https://aitattoo.art/blog/tattoo-size--scale-guide--how-big-is-25-cm-vs-812-cm  
+- Visualize common size buckets with **arm’s-length readability** tests.  
+- Why tiny scripts blur (stroke width & spacing realities on skin).  
+- How to right-size designs for forearm, ribs, calf, and collarbone.
+
+---
+
+## 🧭 How to Use These Guides
+1. **Preview first**: mock your design on AITattoo.art (size + placement + line weight).  
+2. **Pick for longevity**: choose body areas and fonts that age well for *you*.  
+3. **Aftercare wins**: healing determines how it looks next year—follow the day-by-day plan.
+
+> Pro tip: Can’t read it at a glance from **arm’s length** on your phone? Size up or open the tracking.
 
 
 **Find me**: [Twitter](https://x.com/AITattooArt) · [Pinterest](https://pin.it/6NdatdNmR)
