@@ -86,7 +86,18 @@ Explore our newest in-depth tattoo guides, designed to help you understand, care
   Discover how modern color theory and AI previews are transforming the art of tattoo cover-ups.  
 
 - [**Tattoo Aftercare Timeline 2025 — A Day-by-Day Guide You Can Actually Follow**](https://aitattoo.art/blog/tattoo-aftercare-timeline-2025--a-day-by-day-guide-you-can-actually-follow)  
-  Follow a realistic daily aftercare plan that ensures your new tattoo heals cleanly and stays vibrant.  
+  Follow a realistic daily aftercare plan that ensures your new tattoo heals cleanly and stays vibrant.
+  ### 🆕 AITattoo.art Updates (Today)
+
+Published two new blog articles exploring AI creativity and modern tattoo design trends:
+
+- **[How to Turn Your Tattoo Idea into AI-Generated Art — Step-by-Step 2025 Guide](https://aitattoo.art/blog/how-to-turn-your-tattoo-idea-into-ai-generated-art--step-by-step-2025-guide)**  
+  A detailed 2025 guide on transforming personal tattoo ideas into AI-generated designs — from concept and prompt writing to final artwork.
+
+- **[The Meaning Behind Fine Line Tattoos — Subtle Art with Deep Stories (2025 Guide)](https://aitattoo.art/blog/the-meaning-behind-fine-line-tattoos--subtle-art-with-deep-stories-2025-guide)**  
+  Exploring the emotional depth and minimalist beauty of fine line tattoos, and how AI helps visualize these delicate styles.
+
+*Stay creative — explore more at [AITattoo.art](https://aitattoo.art)!*
 
 ## 🧭 How to Use These Guides
 1. **Preview first**: mock your design on AITattoo.art (size + placement + line weight).  
